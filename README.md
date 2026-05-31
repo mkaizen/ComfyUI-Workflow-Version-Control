@@ -3,10 +3,11 @@
 A desktop app for snapshotting, branching, and diffing ComfyUI workflow files.
 Never lose a working workflow again.
 
-[![CI](https://github.com/mkaizen/comfyui-workflow-vc/actions/workflows/ci.yml/badge.svg)](https://github.com/mkaizen/comfyui-workflow-vc/actions/workflows/ci.yml)
+[![CI](https://github.com/mkaizen/ComfyUI-Workflow-Version-Control/actions/workflows/ci.yml/badge.svg)](https://github.com/mkaizen/ComfyUI-Workflow-Version-Control/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
----
+
+![alt text](https://i.imgur.com/8ya6NRi.png)
 
 ## Features
 
