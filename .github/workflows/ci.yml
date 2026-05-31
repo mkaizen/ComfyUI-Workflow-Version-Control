@@ -27,8 +27,8 @@ jobs:
       - name: Install dependencies
         run: |
           pip install pytest
-          # PyQt6 not installed in CI (no display); GUI code is not tested here
-          # Core logic (repository, diff, models) has no Qt dependency
+          pip install -e . --no-deps
+          # PyQt6 skipped in CI (no display); GUI is not tested here
 
       - name: Run tests
         run: pytest tests/ -v --tb=short
